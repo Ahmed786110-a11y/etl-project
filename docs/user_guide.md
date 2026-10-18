@@ -4,11 +4,11 @@ This guide walks you through installing, running, and troubleshooting the ETL pi
 
 Commands are shown for **Windows PowerShell**. On Mac or Linux they are the same unless noted.
 
----
+
 
 ## Part 1: Installation
 
-### 1.1 Install the required software
+### Install the required software
 
 | Software | Where to get it | Notes |
 |---|---|---|
