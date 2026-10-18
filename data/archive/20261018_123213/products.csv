@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,unit_price,stock_quantity,is_active
+1,DarkRed Clearly Clothing,Clothing,Garcia-Newman,980.96,188,True
+2,Indigo Walk Toys,Toys,Byrd,62.42,141,True
+3,DarkCyan Town Clothing,Clothing,Wade-Wilkinson,949.1,421,True
+4,PowderBlue Wind Books,Books,Gill,642.41,305,False
+5,PaleGreen Mean Electronics,Electronics,Nguyen,787.21,124,False
+6,DarkSeaGreen Check Books,Books,Petty,70.46,391,True
+7,DeepSkyBlue Change Books,Books,Gillespie,813.42,119,True
+8,Azure Protect Home,Home & Kitchen,Webster,789.06,305,True
+9,LightCoral Class Home,Home & Kitchen,Castro-Santiago,987.54,276,True
+10,DeepSkyBlue Series Home,Home & Kitchen,Ewing,111.7,443,True
+11,MidnightBlue Interview Electronics,Electronics,Bennett,359.52,403,True
+12,MediumSlateBlue Development Toys,Toys,Douglas-Mccullough,17.74,135,True
+13,LemonChiffon These Beauty,Beauty,Tyler,527.02,381,True
+14,CornflowerBlue Top Grocery,Grocery,Wilson,778.45,262,True
+15,SlateGray Fact Grocery,Grocery,Carey,504.82,484,True
+16,SlateBlue Relationship Sports,Sports,Perez-Hansen,459.12,493,True
+17,Linen Sport Grocery,Grocery,Delgado,847.59,218,True
+18,DeepPink Add Grocery,Grocery,Jones,712.97,227,True
+19,Chartreuse Movie Clothing,Clothing,Beck-Perez,323.46,75,True
+20,Sienna Realize Sports,Sports,Hughes-Edwards,625.06,299,True
+21,LightSalmon Street Toys,Toys,Williams-Flores,382.13,305,True
+22,Cornsilk Successful Grocery,Grocery,Zuniga,506.53,220,True
+23,CornflowerBlue Home Clothing,Clothing,Patterson,853.08,333,True
+24,LightGreen Away Books,Books,Knight,431.2,454,True
+25,MediumSpringGreen Girl Toys,Toys,Nelson-Hudson,827.75,204,True
+26,DarkGoldenRod Part Clothing,Clothing,Bennett,313.91,160,True
+27,RoyalBlue Officer Toys,Toys,Howard-Lopez,953.68,351,False
+28,Silver Suggest Clothing,Clothing,Shepherd,93.03,43,True
+29,LightCoral Concern Clothing,Clothing,Bray-Estrada,745.09,190,True
+30,Cornsilk Prevent Electronics,Electronics,Crawford,587.28,287,True
+31,DeepPink Food Clothing,Clothing,Everett,411.98,447,True
+32,LemonChiffon Society Beauty,Beauty,Jordan,868.35,369,True
+33,White Our Sports,Sports,Gibson,601.2,180,True
+34,Sienna Dinner Books,Books,Martin,156.41,246,True
+35,SkyBlue During Clothing,Clothing,Yates,351.4,284,True
+36,DarkSeaGreen Left Sports,Sports,Price,574.94,413,True
+37,MediumSlateBlue Safe Electronics,Electronics,Maynard,609.77,336,True
+38,YellowGreen Kitchen Sports,Sports,Young-Walsh,30.89,139,True
+39,HoneyDew Yeah Sports,Sports,Cohen,921.68,179,True
+40,Magenta Degree Home,Home & Kitchen,Morrison,567.18,205,True
+41,Olive Get Electronics,Electronics,Lopez-Mckay,93.56,271,True
+42,MediumSeaGreen Court Beauty,Beauty,Martinez,454.73,80,True
+43,DimGray Camera Toys,Toys,Jones,777.27,290,True
+44,SlateBlue Surface Electronics,Electronics,Nelson-Campbell,157.26,386,True
+45,SaddleBrown Successful Clothing,Clothing,Castillo-Dawson,273.55,338,True
+46,AliceBlue Challenge Grocery,Grocery,Donaldson-Marshall,415.35,110,True
+47,Linen For Clothing,Clothing,Ortega,346.47,56,True
+48,RosyBrown Personal Grocery,Grocery,Mclean-Dyer,527.87,157,True
+49,DarkCyan Kind Beauty,Beauty,Cruz,984.47,28,True
+50,Pink Rock Sports,Sports,Scott,945.42,392,True
+51,BlanchedAlmond Agency Sports,Sports,Sanchez-Edwards,290.86,61,True
+52,Indigo Many Beauty,Beauty,Johnson,177.33,194,True
+53,OliveDrab Expert Books,Books,Simmons,501.25,426,True
+54,Cyan Break Toys,Toys,Cunningham,73.92,441,True
+55,Olive Dog Beauty,Beauty,Harris-Neal,20.69,471,True
+56,SeaGreen Serve Toys,Toys,White,576.6,293,True
+57,DarkOliveGreen Color Beauty,Beauty,Martin,290.93,207,True
+58,Lime Easy Toys,Toys,Castaneda,173.52,485,True
+59,LightSteelBlue Whom Toys,Toys,Oliver,89.94,432,True
+60,MediumSeaGreen Population Beauty,Beauty,Bailey-Campbell,589.68,268,True
+61,PowderBlue End Sports,Sports,Compton-Molina,746.3,113,True
+62,LightSteelBlue Skill Home,Home & Kitchen,Parker,78.22,324,True
+63,Cornsilk Strong Books,Books,Salazar-Foster,906.1,178,True
+64,LemonChiffon Some Home,Home & Kitchen,Sanchez,237.79,74,True
+65,LightSalmon Particular Home,Home & Kitchen,Mitchell-Andrews,603.18,389,True
+66,LightPink Understand Clothing,Clothing,Baker-Fox,178.78,395,True
+67,FloralWhite Child Grocery,Grocery,Williams,754.93,389,True
+68,SteelBlue Kitchen Toys,Toys,Jacobs,864.51,321,True
+69,IndianRed Parent Grocery,Grocery,Roth,70.14,226,True
+70,LightPink Black Sports,Sports,Moore,592.23,180,True
+71,RosyBrown Carry Sports,Sports,Vazquez,462.81,19,True
+72,Silver Sort Sports,Sports,Mendoza,78.57,442,False
+73,Tomato Happen Clothing,Clothing,Mitchell,615.77,259,True
+74,PaleVioletRed Hospital Electronics,Electronics,Kennedy-Richards,450.82,414,True
+75,DarkSalmon Always Books,Books,Smith,322.87,243,True
+76,LightSeaGreen Our Electronics,Electronics,Charles-James,451.61,415,True
+77,Coral Choose Toys,Toys,Carr,982.41,43,True
+78,DarkTurquoise Watch Home,Home & Kitchen,Baxter,41.05,362,True
+79,GreenYellow Similar Grocery,Grocery,Cook-Long,525.01,312,True
+80,MintCream Newspaper Toys,Toys,Larson,918.09,198,True
+81,SeaShell Able Toys,Toys,Case,679.53,26,True
+82,IndianRed You Toys,Toys,Green,67.77,48,True
+83,Lime Current Beauty,Beauty,Dominguez-Sanders,285.57,370,True
+84,Indigo Become Home,Home & Kitchen,Walker,334.69,298,True
+85,NavajoWhite Anything Toys,Toys,Phillips,311.6,335,True
+86,Gold Them Beauty,Beauty,Moore-Lambert,130.68,362,False
+87,DarkSlateBlue Along Sports,Sports,Lee,559.79,329,True
+88,LightSteelBlue Cover Home,Home & Kitchen,Russell-Douglas,670.77,424,False
+89,Azure Fish Clothing,Clothing,Alvarado,646.72,216,True
+90,PapayaWhip Mother Electronics,Electronics,Steele,363.86,92,False
+91,Yellow Theory Toys,Toys,Johnson,947.76,248,True
+92,Maroon See Home,Home & Kitchen,Prince,156.63,151,True
+93,BurlyWood Claim Clothing,Clothing,Davis,508.66,276,True
+94,LightSlateGray Attack Electronics,Electronics,Baker-Chaney,662.6,448,True
+95,LimeGreen Despite Home,Home & Kitchen,Brown-Perez,598.04,78,True
+96,Moccasin Your Home,Home & Kitchen,Martin,721.73,22,True
+97,LightSeaGreen Knowledge Books,Books,Morgan-West,969.64,312,True
+98,MediumSlateBlue Show Grocery,Grocery,Gonzalez,235.52,122,True
+99,Turquoise Claim Grocery,Grocery,Mcguire,904.16,99,True
+100,MediumPurple Institution Grocery,Grocery,Frey,462.75,144,True
+101,Khaki Age Beauty,Beauty,Gonzalez,966.33,418,True
+102,SeaGreen Let Home,Home & Kitchen,Gross,873.25,26,True
+103,Pink Step Toys,Toys,Diaz-Cabrera,555.42,52,True
+104,Purple Total Clothing,Clothing,Thomas-Mendoza,286.48,390,True
+105,MediumTurquoise Social Grocery,Grocery,Wright-Goodman,905.49,75,True
+106,ForestGreen Fall Clothing,Clothing,Wood,946.51,113,True
+107,ForestGreen Whether Toys,Toys,Navarro,930.6,212,True
+108,LightGoldenRodYellow Team Toys,Toys,Jackson-Johnson,237.3,41,True
+109,LightPink Sense Electronics,Electronics,Williams,320.04,50,True
+110,LightYellow Low Toys,Toys,Potts,791.79,70,True
+111,Azure Benefit Grocery,Grocery,Robbins-Rosario,696.67,71,True
+112,DarkSeaGreen Final Grocery,Grocery,Ibarra,449.69,2,False
+113,Purple Teach Electronics,Electronics,Gutierrez,257.4,427,True
+114,YellowGreen Maintain Beauty,Beauty,Parsons,112.95,147,True
+115,Snow Full Clothing,Clothing,Gutierrez-Dean,49.64,214,True
+116,Gainsboro Wish Grocery,Grocery,Williams-Ward,64.67,428,False
+117,Yellow Dream Electronics,Electronics,Brennan,632.68,294,True
+118,SeaShell Professional Home,Home & Kitchen,Morgan,292.68,0,True
+119,Gainsboro Clearly Books,Books,George-Lang,571.51,95,True
+120,MediumSpringGreen Image Clothing,Clothing,Chang-Campbell,524.43,184,True
+121,LightCyan Who Electronics,Electronics,Hardy,391.66,240,True
+122,LightBlue Product Beauty,Beauty,Hayes,981.07,129,True
+123,GhostWhite Black Toys,Toys,Miller,788.93,176,True
+124,DarkOrchid Nice Clothing,Clothing,Church-Williams,771.95,376,True
+125,MediumTurquoise Rise Home,Home & Kitchen,Perry,46.24,279,True
+126,Cornsilk Look Home,Home & Kitchen,Roy,830.71,350,True
+127,LightSteelBlue Rule Grocery,Grocery,Yates,632.46,415,True
+128,DeepPink He Grocery,Grocery,Matthews,38.9,103,True
+129,LightCoral Run Books,Books,Thompson-Flores,886.01,161,False
+130,DarkOliveGreen Minute Beauty,Beauty,Thompson,989.13,278,True
+131,Snow Young Electronics,Electronics,Goodman-Wright,753.77,97,True
+132,SaddleBrown Court Electronics,Electronics,Smith,866.06,169,True
+133,DeepPink Charge Toys,Toys,Bennett,438.07,204,True
+134,MediumBlue Reveal Beauty,Beauty,Garza-Lucas,340.35,95,True
+135,GoldenRod When Grocery,Grocery,Singh,368.6,408,True
+136,Yellow Technology Clothing,Clothing,Harris,727.62,40,True
+137,LightYellow Five Home,Home & Kitchen,Wiley-Bass,546.37,164,True
+138,Linen Morning Toys,Toys,Porter,661.59,156,True
+139,Aquamarine Experience Beauty,Beauty,Smith-Martin,168.3,227,True
+140,Navy Positive Electronics,Electronics,Gray,727.35,466,True
+141,Maroon Customer Beauty,Beauty,West,276.0,405,False
+142,Gainsboro Industry Clothing,Clothing,Walters-Clark,671.83,207,True
+143,MediumAquaMarine Join Home,Home & Kitchen,Adams,952.87,73,True
+144,SpringGreen Matter Grocery,Grocery,Norton-Moore,36.72,34,True
+145,MintCream Our Toys,Toys,Smith,363.42,486,True
+146,PaleGoldenRod Happy Home,Home & Kitchen,Miller,679.69,485,True
+147,NavajoWhite Page Grocery,Grocery,Pennington,763.55,293,True
+148,Cornsilk Future Toys,Toys,Robinson-Hernandez,399.23,332,True
+149,MediumAquaMarine Four Clothing,Clothing,Haynes,27.85,95,True
+150,SandyBrown Relate Beauty,Beauty,Burnett,913.71,60,True
+151,LightYellow Red Sports,Sports,Williams,704.62,109,False
+152,Crimson Government Sports,Sports,Green,694.58,251,True
+153,MediumSlateBlue Bill Home,Home & Kitchen,Harris,853.11,231,True
+154,Ivory Real Grocery,Grocery,Wolf,997.26,414,True
+155,White Together Toys,Toys,Bush,668.49,363,True
+156,Coral Tell Sports,Sports,Miller,891.54,435,True
+157,ForestGreen Station Home,Home & Kitchen,Watson,794.1,260,True
+158,Teal Recognize Books,Books,Dawson,792.47,121,True
+159,DeepSkyBlue True Electronics,Electronics,Stephens-Nichols,362.16,293,True
+160,PaleGoldenRod Fire Home,Home & Kitchen,Garcia,612.71,44,True
+161,DarkOliveGreen Nice Beauty,Beauty,Baker-Medina,999.59,368,True
+162,Orange For Beauty,Beauty,Brady-Hood,769.62,421,True
+163,AliceBlue And Home,Home & Kitchen,Thompson-Reilly,972.42,328,True
+164,SpringGreen Letter Grocery,Grocery,Warren,680.74,176,True
+165,MediumOrchid Stand Home,Home & Kitchen,Moyer,768.24,66,True
+166,PaleGoldenRod Smile Electronics,Electronics,Hampton-Wilson,831.72,265,True
+167,PowderBlue Shake Home,Home & Kitchen,Robinson,163.63,478,True
+168,Gainsboro Brother Toys,Toys,Thomas,947.58,265,True
+169,Fuchsia Bad Clothing,Clothing,White,252.09,325,False
+170,Coral Answer Sports,Sports,Martin-King,126.91,155,True
+171,IndianRed Stuff Clothing,Clothing,Campbell,503.56,86,True
+172,Teal Whose Home,Home & Kitchen,Barton,172.85,319,True
+173,SeaShell Travel Toys,Toys,Griffin,842.83,288,True
+174,LightSeaGreen Parent Electronics,Electronics,Rose,83.05,485,True
+175,Gray Bring Sports,Sports,Dunn,651.82,392,True
+176,Peru It Electronics,Electronics,Mclaughlin,499.03,321,True
+177,FloralWhite Seat Sports,Sports,Brown,483.97,412,True
+178,Gray Small Beauty,Beauty,Ryan,298.83,37,True
+179,YellowGreen Individual Home,Home & Kitchen,Salas,440.72,247,True
+180,MediumBlue Program Toys,Toys,Nguyen,607.44,160,True
+181,LightPink Election Toys,Toys,Nolan,734.72,440,True
+182,MidnightBlue On Beauty,Beauty,Martin,132.49,189,True
+183,FloralWhite Receive Clothing,Clothing,Saunders,320.47,238,True
+184,White Save Grocery,Grocery,Martin-Ellis,249.41,49,True
+185,PowderBlue Worker Beauty,Beauty,Hodge,864.43,214,True
+186,GreenYellow Us Home,Home & Kitchen,Lynch,813.84,478,True
+187,GreenYellow Difficult Toys,Toys,Russell-Burgess,191.44,81,True
+188,Tan Great Grocery,Grocery,Wilson,499.75,157,True
+189,PaleGreen Cost Clothing,Clothing,Gibson-Wright,945.33,258,True
+190,Linen Standard Books,Books,Smith,216.7,180,True
+191,Gold Clear Sports,Sports,Wagner,495.89,451,True
+192,DeepSkyBlue Bit Grocery,Grocery,Fernandez,287.17,4,True
+193,MediumVioletRed Water Beauty,Beauty,Murray,135.66,135,True
+194,Coral Newspaper Beauty,Beauty,Nguyen-Pace,367.2,205,True
+195,Beige Into Books,Books,Snyder-Davis,363.79,147,True
+196,Brown Knowledge Grocery,Grocery,Cummings,764.87,143,True
+197,WhiteSmoke Necessary Clothing,Clothing,Chase,130.4,49,True
+198,LightBlue Speech Toys,Toys,Howell,558.71,187,True
+199,Red It Books,Books,Murray,603.25,205,True
+200,DarkOliveGreen He Electronics,Electronics,Barnes,40.83,365,True
+201,Yellow Room Grocery,Grocery,Bell-Jimenez,520.28,76,True
+202,Azure Sense Home,Home & Kitchen,Hernandez,329.3,313,True
+203,PaleGoldenRod None Beauty,Beauty,Gallagher-Carr,990.62,378,True
+204,MidnightBlue Paper Toys,Toys,Taylor,508.29,260,True
+205,GreenYellow Foot Sports,Sports,Hunter,475.93,8,True
+206,MediumSpringGreen Gas Clothing,Clothing,Guzman,979.93,298,True
+207,PowderBlue Production Electronics,Electronics,Smith,597.71,135,False
+208,DarkSlateBlue Particularly Books,Books,Johnson,721.95,298,True
+209,PaleVioletRed Land Beauty,Beauty,Hinton,149.47,348,True
+210,Orchid Memory Clothing,Clothing,Hart,192.39,225,True
+211,Salmon Food Home,Home & Kitchen,Frazier,414.12,104,True
+212,LightSkyBlue Into Grocery,Grocery,Jones-Hicks,873.06,376,True
+213,Tan Throw Home,Home & Kitchen,Rodriguez-Murray,519.64,287,True
+214,LightSlateGray Those Grocery,Grocery,Stone-Soto,526.42,160,False
+215,GreenYellow Inside Grocery,Grocery,Perkins,912.29,175,True
+216,Olive Final Sports,Sports,Ferguson,610.85,98,False
+217,FireBrick Recognize Sports,Sports,Robertson,558.96,115,False
+218,FloralWhite By Sports,Sports,Martin,771.62,360,True
+219,Salmon Among Grocery,Grocery,Ross-Tran,318.4,178,True
+220,Chocolate Affect Sports,Sports,White,289.2,293,True
+221,Turquoise Body Beauty,Beauty,Smith,895.96,202,True
+222,Gold Two Home,Home & Kitchen,Ballard,291.86,147,False
+223,Yellow Ok Clothing,Clothing,Montgomery,347.66,226,True
+224,Sienna Everybody Grocery,Grocery,Cooley,215.55,423,True
+225,LavenderBlush Address Sports,Sports,Schaefer,138.99,315,True
+226,NavajoWhite Whole Books,Books,Williams,243.96,342,False
+227,Brown Respond Books,Books,Cortez-Wolf,638.66,26,True
+228,PaleGreen Blue Toys,Toys,Oneal,717.91,51,True
+229,GreenYellow Adult Home,Home & Kitchen,Hughes-Davis,7.16,281,False
+230,LightGoldenRodYellow Speak Home,Home & Kitchen,Lee,408.08,478,True
+231,LightYellow Lay Grocery,Grocery,Hudson-Shaw,478.48,102,True
+232,Silver White Sports,Sports,Gaines,322.52,330,True
+233,DodgerBlue Join Clothing,Clothing,Lara,652.98,118,True
+234,GreenYellow Late Electronics,Electronics,Oneal-Martinez,913.39,89,True
+235,Lavender Experience Home,Home & Kitchen,Turner-Novak,934.04,18,False
+236,DarkSeaGreen Plant Beauty,Beauty,Hurley,788.37,95,False
+237,MediumSpringGreen Knowledge Sports,Sports,Barrera,876.98,4,True
+238,FireBrick Fish Clothing,Clothing,Gray,928.59,171,True
+239,DarkOrange Game Grocery,Grocery,Carr-Graham,889.47,68,True
+240,Silver Certain Grocery,Grocery,Randolph-Tate,274.28,414,True
+241,GhostWhite Wrong Home,Home & Kitchen,Martinez,731.65,331,True
+242,MediumPurple Eat Home,Home & Kitchen,Frederick,16.05,172,True
+243,LightYellow Less Books,Books,Green,177.13,438,True
+244,Silver Wear Beauty,Beauty,Torres-Roberts,827.33,263,True
+245,MediumOrchid Hotel Beauty,Beauty,Walker,669.91,94,False
+246,Lavender Nor Grocery,Grocery,Edwards,324.94,127,True
+247,Cyan Certain Beauty,Beauty,Cook-Bailey,237.04,385,True
+248,DarkKhaki Compare Toys,Toys,Poole,303.33,370,True
+249,LightBlue Indeed Sports,Sports,Barrett,654.37,354,True
+250,CornflowerBlue Woman Clothing,Clothing,Maxwell,466.45,81,True
+251,DarkTurquoise Property Sports,Sports,Simpson-Coleman,690.9,327,False
+252,LightPink North Sports,Sports,Gardner,368.8,113,True
+253,MediumBlue Seem Home,Home & Kitchen,Morris,479.22,232,True
+254,Linen Conference Toys,Toys,Skinner,417.0,281,False
+255,DarkGreen Into Books,Books,Madden,762.33,348,True
+256,SlateGray Home Clothing,Clothing,Miller,526.45,270,True
+257,CadetBlue Newspaper Clothing,Clothing,Williams,917.4,57,True
+258,RosyBrown Look Books,Books,Adams-Hall,573.55,76,True
+259,Moccasin Pull Grocery,Grocery,Kelly,118.0,105,True
+260,Lime Left Grocery,Grocery,Dennis,92.75,261,True
+261,SandyBrown By Electronics,Electronics,Carpenter-Park,454.52,262,True
+262,Salmon Decision Electronics,Electronics,Roberts-Valenzuela,559.67,344,True
+263,GreenYellow Although Electronics,Electronics,Hall-Dixon,397.15,418,True
+264,Black Doctor Books,Books,Martinez,579.14,23,True
+265,PeachPuff Because Clothing,Clothing,Barker,542.07,30,False
+266,Turquoise Why Clothing,Clothing,Baird,986.15,241,True
+267,Sienna Move Beauty,Beauty,Preston,181.61,69,True
+268,MidnightBlue Study Beauty,Beauty,Castillo,375.7,456,True
+269,Gray Act Beauty,Beauty,Wilcox-Graham,376.88,349,False
+270,Maroon Return Home,Home & Kitchen,Edwards,654.22,178,True
+271,Red Role Beauty,Beauty,Ortiz-Decker,529.77,372,False
+272,HotPink With Electronics,Electronics,Daniel-Webb,756.66,500,True
+273,Thistle Apply Beauty,Beauty,Hunt,532.86,421,True
+274,MintCream Large Grocery,Grocery,Mendoza,347.46,141,True
+275,SpringGreen Begin Clothing,Clothing,Mendoza,34.14,338,True
+276,Orchid Per Electronics,Electronics,Benitez,242.17,34,True
+277,HoneyDew Teach Electronics,Electronics,Taylor-Jacobs,447.54,344,True
+278,LightCyan View Electronics,Electronics,Soto-Jordan,246.23,22,True
+279,MediumSpringGreen Area Books,Books,Matthews,540.67,386,True
+280,Blue Brother Electronics,Electronics,Patel,141.85,148,True
+281,MediumSpringGreen Media Toys,Toys,Ray,578.31,395,True
+282,Lavender There Toys,Toys,Fletcher,238.42,448,True
+283,Yellow Phone Books,Books,Alvarado-Roberts,414.72,140,True
+284,LightSlateGray Conference Home,Home & Kitchen,Phillips,626.73,218,True
+285,Tomato Finish Electronics,Electronics,Potter,972.34,482,True
+286,Salmon Pass Beauty,Beauty,Kim-Hoffman,786.22,163,True
+287,NavajoWhite Than Beauty,Beauty,Murphy-Mckinney,150.91,192,True
+288,MediumVioletRed Somebody Grocery,Grocery,Martinez,242.48,115,True
+289,CadetBlue Country Home,Home & Kitchen,Jones,806.15,468,True
+290,SandyBrown Side Beauty,Beauty,Lynch,967.84,285,True
+291,Cornsilk Ten Beauty,Beauty,Evans,244.36,104,True
+292,Gold Purpose Clothing,Clothing,Solomon,922.37,433,True
+293,Aquamarine With Books,Books,Christensen-Rice,53.42,193,True
+294,LightGray Wish Electronics,Electronics,Cochran-Tyler,873.86,96,True
+295,GreenYellow Large Books,Books,Hodges-Moore,480.43,445,False
+296,OrangeRed Necessary Sports,Sports,Miller,957.1,7,True
+297,IndianRed Pull Books,Books,Clark,962.14,60,True
+298,MediumSpringGreen Soldier Grocery,Grocery,Sweeney-Wilson,914.6,356,True
+299,Cyan Participant Books,Books,Lynch,397.83,122,True
+300,WhiteSmoke Base Sports,Sports,Landry-Rogers,381.89,273,True
+301,Aqua Very Sports,Sports,Rojas,263.03,262,True
+302,FireBrick These Grocery,Grocery,Griffin,100.4,369,True
+303,BurlyWood Hospital Toys,Toys,Hernandez-Hensley,914.49,189,True
+304,Peru Pay Electronics,Electronics,Walker,563.39,113,True
+305,DarkCyan Production Electronics,Electronics,Edwards,262.24,478,True
+306,SandyBrown Smile Beauty,Beauty,Mack,296.59,100,True
+307,MediumAquaMarine Day Beauty,Beauty,Nunez,570.64,125,True
+308,DarkRed Campaign Toys,Toys,Allen,258.8,420,True
+309,White Car Grocery,Grocery,Rollins,461.9,375,True
+310,Maroon Happy Home,Home & Kitchen,Sanchez,141.67,279,True
+311,BlueViolet Painting Electronics,Electronics,Vaughn,524.89,429,True
+312,White Subject Electronics,Electronics,Foley,764.8,211,True
+313,DarkRed And Books,Books,Murphy-Suarez,69.82,77,True
+314,Lime Difference Grocery,Grocery,Murray,374.44,316,True
+315,Wheat Model Grocery,Grocery,Gray,659.96,8,True
+316,DarkSlateGray Who Beauty,Beauty,Miller-Vaughn,13.82,271,True
+317,Teal Service Sports,Sports,Morales,19.1,416,True
+318,Chocolate Sea Beauty,Beauty,Sims,806.55,465,True
+319,MediumBlue Tv Clothing,Clothing,Davis-Chen,525.33,123,True
+320,LightSteelBlue Little Sports,Sports,Sanchez,815.57,136,True
+321,OldLace Education Clothing,Clothing,Freeman,374.3,207,True
+322,DarkOrange Blood Books,Books,Roberts-Long,990.24,115,True
+323,BlueViolet Receive Clothing,Clothing,Massey,654.42,439,True
+324,SeaShell Mention Electronics,Electronics,Bryant,95.3,194,True
+325,YellowGreen Phone Grocery,Grocery,Barajas-Santos,57.99,4,True
+326,PaleTurquoise Above Clothing,Clothing,Sloan-Phillips,500.85,222,True
+327,Turquoise Beautiful Toys,Toys,Aguirre-Scott,566.71,439,False
+328,PaleVioletRed Ball Electronics,Electronics,Barry,231.3,461,True
+329,SandyBrown Game Grocery,Grocery,Snow,272.54,473,True
+330,Lime It Sports,Sports,Williams-Brooks,899.5,288,True
+331,DarkRed Always Home,Home & Kitchen,Caldwell,928.9,161,True
+332,AliceBlue Central Books,Books,Baird-Smith,587.85,385,True
+333,DarkTurquoise Message Beauty,Beauty,Clark-Taylor,929.01,153,True
+334,Teal Turn Books,Books,Baker,567.55,434,True
+335,LightPink Long Toys,Toys,Rice,385.07,378,True
+336,Khaki Person Clothing,Clothing,Bauer-House,501.78,498,True
+337,PaleVioletRed Paper Clothing,Clothing,Barnes,438.2,429,True
+338,LightGoldenRodYellow Run Beauty,Beauty,Dalton,968.97,167,True
+339,AliceBlue Over Sports,Sports,Thompson,783.97,230,True
+340,LightSeaGreen Wrong Toys,Toys,Hicks,553.92,192,True
+341,MediumVioletRed Brother Beauty,Beauty,Young,87.51,316,True
+342,SaddleBrown Century Books,Books,Martinez-Adams,713.67,42,True
+343,Gray Against Beauty,Beauty,Faulkner,712.24,324,True
+344,DarkOrchid Story Beauty,Beauty,Todd,318.03,54,True
+345,BlanchedAlmond Degree Sports,Sports,Valentine-Garza,445.84,389,True
+346,Turquoise Wear Home,Home & Kitchen,Hunter,89.11,220,True
+347,SeaShell Level Beauty,Beauty,Burgess,105.08,45,True
+348,Lavender Difficult Clothing,Clothing,Campbell-Wells,597.72,401,True
+349,Aquamarine Themselves Beauty,Beauty,Davis-Love,14.31,211,True
+350,Aquamarine Prevent Clothing,Clothing,Mcmahon,725.38,286,False
+351,GoldenRod Music Books,Books,Marks,572.81,86,True
+352,DarkSalmon Individual Home,Home & Kitchen,Bailey,140.55,154,True
+353,BlueViolet Window Home,Home & Kitchen,Jones-Boone,65.13,222,True
+354,Lavender Wall Sports,Sports,Carr,485.25,39,True
+355,MintCream Little Books,Books,Anderson-Adams,721.45,253,True
+356,LightSeaGreen Attorney Books,Books,Brown,458.94,69,True
+357,Snow Road Beauty,Beauty,Combs,333.54,317,True
+358,DimGray Experience Toys,Toys,Cuevas-Allen,441.33,220,True
+359,Crimson Artist Home,Home & Kitchen,Webb,301.82,308,False
+360,DarkTurquoise Charge Books,Books,Stephens-Owens,480.04,90,False
+361,Sienna City Toys,Toys,Price,292.86,355,True
+362,PaleTurquoise Democratic Books,Books,Thompson,327.22,143,True
+363,Snow Thousand Beauty,Beauty,Leon-Lopez,366.28,477,True
+364,Aquamarine Evidence Home,Home & Kitchen,Brewer,682.34,281,True
+365,DarkMagenta None Grocery,Grocery,Williams,943.08,107,True
+366,Plum Bit Sports,Sports,James,831.61,35,True
+367,YellowGreen Inside Beauty,Beauty,Benson-Jackson,673.62,71,True
+368,DeepPink Start Books,Books,Johnson,254.17,78,True
+369,LavenderBlush Include Beauty,Beauty,Griffith-Jones,75.81,306,True
+370,MistyRose Debate Beauty,Beauty,Mullen-Silva,535.29,472,False
+371,Aqua Group Beauty,Beauty,Alvarez-Edwards,544.55,404,False
+372,Chocolate Big Clothing,Clothing,Sanchez-Cook,111.14,127,True
+373,Aquamarine Agree Toys,Toys,Robinson-Murray,168.0,313,True
+374,Gold Soldier Beauty,Beauty,Pena,966.87,169,False
+375,DodgerBlue Better Beauty,Beauty,Harris,107.72,50,True
+376,BlueViolet Six Books,Books,Kennedy,446.88,200,True
+377,DarkTurquoise Cultural Home,Home & Kitchen,Johnson,346.27,12,True
+378,Maroon Truth Sports,Sports,Ayala,417.13,492,True
+379,Snow Bring Home,Home & Kitchen,Jackson,349.62,175,True
+380,Sienna They Books,Books,Gibson,522.06,178,True
+381,LemonChiffon Investment Grocery,Grocery,Lucero,722.54,231,True
+382,Ivory Song Sports,Sports,Carter-Buchanan,46.58,363,True
+383,DarkSeaGreen Create Toys,Toys,Thomas-Wong,648.66,346,True
+384,Aquamarine Charge Books,Books,White-Pruitt,516.95,282,True
+385,LightPink Someone Beauty,Beauty,Thomas,958.54,118,True
+386,Azure Past Home,Home & Kitchen,Torres-Morrow,188.0,336,True
+387,Sienna Use Electronics,Electronics,Bennett,737.9,452,True
+388,HoneyDew Represent Beauty,Beauty,Fisher,390.05,360,True
+389,MidnightBlue Four Sports,Sports,Walker,752.81,414,True
+390,SeaShell Issue Clothing,Clothing,Pearson,799.89,274,True
+391,Lime Service Toys,Toys,Johnson,198.67,58,True
+392,MediumTurquoise Their Grocery,Grocery,Howard,528.65,327,True
+393,Blue Catch Beauty,Beauty,Rodriguez,612.08,300,True
+394,DarkOliveGreen Front Toys,Toys,Perkins,845.82,316,True
+395,Plum Now Sports,Sports,Holder-Warner,918.84,302,True
+396,WhiteSmoke Value Home,Home & Kitchen,Scott-Hawkins,314.55,122,True
+397,Thistle Represent Home,Home & Kitchen,Martinez-Ford,374.55,72,True
+398,Chocolate Whatever Beauty,Beauty,Porter,597.22,294,True
+399,Magenta Loss Home,Home & Kitchen,Johnson-Curry,487.69,275,True
+400,Purple Tend Home,Home & Kitchen,Grant,555.79,250,True
+401,BlanchedAlmond Military Home,Home & Kitchen,Harvey-Bradley,315.94,230,True
+402,DarkBlue Leave Toys,Toys,Williams-Powell,951.93,248,True
+403,Wheat Worker Beauty,Beauty,Long,963.89,258,True
+404,DarkSalmon These Beauty,Beauty,Floyd,685.32,212,True
+405,LightSeaGreen Now Grocery,Grocery,Hicks-Nelson,489.71,42,True
+406,BlueViolet Mother Books,Books,Wilson,293.5,140,True
+407,Wheat Item Sports,Sports,Hill-Lopez,169.86,234,True
+408,Aqua Concern Grocery,Grocery,Cuevas,550.62,57,True
+409,SlateGray Rich Sports,Sports,Hernandez,775.55,421,False
+410,AliceBlue Unit Electronics,Electronics,Juarez,760.47,225,True
+411,Chocolate Against Beauty,Beauty,Dunn,104.2,424,True
+412,LightBlue Student Books,Books,Manning-Mcknight,299.1,16,True
+413,SaddleBrown Education Toys,Toys,Rodriguez,862.47,44,True
+414,DarkGoldenRod Campaign Clothing,Clothing,Wilson-Yates,776.07,121,True
+415,Beige Particularly Toys,Toys,Cruz,861.32,312,True
+416,DeepPink Tend Home,Home & Kitchen,Taylor,616.91,401,True
+417,Green World Books,Books,Harmon-Perkins,805.82,291,True
+418,White You Sports,Sports,Acosta,597.65,86,True
+419,Orange Act Sports,Sports,Pope,290.74,136,False
+420,DarkBlue Yes Clothing,Clothing,Coleman,137.31,384,True
+421,BlueViolet Apply Electronics,Electronics,Morse,992.49,443,True
+422,Thistle Factor Home,Home & Kitchen,Robinson,251.17,364,True
+423,LemonChiffon Like Books,Books,Noble,761.94,346,True
+424,DarkBlue Friend Home,Home & Kitchen,Bates,578.26,137,True
+425,NavajoWhite Rule Beauty,Beauty,Rivera-Thomas,453.08,324,True
+426,Magenta Citizen Clothing,Clothing,Lopez,404.04,383,True
+427,Aquamarine Authority Toys,Toys,Harris-Farmer,455.78,249,True
+428,LightSeaGreen Itself Electronics,Electronics,Johnson-Morris,869.16,433,True
+429,LightCoral Federal Grocery,Grocery,Zamora,635.56,357,True
+430,Red Choose Clothing,Clothing,Brown,796.08,203,True
+431,Azure Take Beauty,Beauty,Mccarthy,825.19,253,True
+432,DarkGoldenRod Risk Sports,Sports,Hernandez,339.07,295,True
+433,RosyBrown Pick Grocery,Grocery,Donaldson-Hernandez,788.72,457,True
+434,OrangeRed Chance Electronics,Electronics,Schmidt,47.84,320,True
+435,CornflowerBlue Model Grocery,Grocery,Barker-Conway,18.24,475,True
+436,SeaGreen Dream Grocery,Grocery,Walsh-Lee,457.6,490,True
+437,Magenta Collection Home,Home & Kitchen,Cooper,882.37,154,True
+438,Azure Across Sports,Sports,Miller-Harvey,95.14,184,True
+439,DarkSlateGray Ok Toys,Toys,Rivera,665.17,332,True
+440,CornflowerBlue Production Beauty,Beauty,Hartman,626.34,371,True
+441,MediumTurquoise Other Books,Books,Mitchell,430.36,46,True
+442,DarkOrange Use Electronics,Electronics,Brown,214.98,39,True
+443,ForestGreen Discuss Books,Books,Baker,520.4,227,True
+444,Bisque Arm Toys,Toys,Anderson,817.46,440,True
+445,Turquoise Character Home,Home & Kitchen,Miller-Davis,478.73,117,True
+446,ForestGreen Deep Clothing,Clothing,Bradley,104.99,188,True
+447,Pink Authority Home,Home & Kitchen,Davis-Johnson,383.95,416,True
+448,LightGray Your Home,Home & Kitchen,Espinoza,642.28,346,True
+449,PowderBlue Society Electronics,Electronics,Walker-Briggs,611.09,84,True
+450,LightGoldenRodYellow Forget Books,Books,Swanson-Arellano,628.81,77,False
+451,Linen Real Grocery,Grocery,English,860.23,44,True
+452,PeachPuff Discuss Home,Home & Kitchen,Evans,752.93,301,True
+453,DarkCyan Go Toys,Toys,Smith,963.31,161,True
+454,GreenYellow Sign Books,Books,Vasquez-Hernandez,278.4,43,True
+455,LavenderBlush Hard Sports,Sports,Woodward,779.4,353,True
+456,White Condition Sports,Sports,Bentley,207.02,310,True
+457,DarkSalmon That Beauty,Beauty,Barnett-White,296.94,27,True
+458,RoyalBlue About Books,Books,Myers,495.89,57,True
+459,MediumVioletRed Work Clothing,Clothing,Logan,529.22,500,True
+460,LightSalmon Ball Toys,Toys,Suarez,934.05,67,True
+461,YellowGreen Letter Beauty,Beauty,Chase,366.67,349,True
+462,Sienna Manage Grocery,Grocery,Bates,954.53,394,True
+463,Chocolate Purpose Clothing,Clothing,Ward,15.76,110,True
+464,PaleVioletRed Worker Electronics,Electronics,Drake,948.77,203,True
+465,SteelBlue Others Beauty,Beauty,Holder-Beltran,424.72,205,True
+466,DarkSalmon Easy Home,Home & Kitchen,Shields-Cain,278.9,158,True
+467,Linen Argue Books,Books,Barber-Koch,974.35,79,True
+468,OldLace Officer Beauty,Beauty,Meza,587.25,390,True
+469,DarkCyan Great Clothing,Clothing,Reynolds,311.54,223,True
+470,MintCream Common Books,Books,Scott-Floyd,59.78,44,False
+471,Azure Instead Clothing,Clothing,Vazquez,454.46,311,True
+472,DarkCyan Space Home,Home & Kitchen,Garcia,121.19,362,True
+473,Snow Staff Electronics,Electronics,Payne,165.49,487,True
+474,Wheat Choice Sports,Sports,Wright-Vincent,168.62,64,True
+475,Pink East Sports,Sports,Perez-Byrd,733.46,60,True
+476,LightSlateGray Month Electronics,Electronics,Drake,336.33,219,True
+477,LightSalmon Peace Clothing,Clothing,Herrera-Kaiser,264.41,499,True
+478,PaleGreen Event Clothing,Clothing,Reed,497.15,261,True
+479,DarkGreen Animal Grocery,Grocery,Davis,859.63,85,True
+480,Magenta Deal Sports,Sports,Brady,773.77,457,True
+481,LightBlue Travel Clothing,Clothing,Wilson,229.94,260,True
+482,CadetBlue Foreign Electronics,Electronics,Manning,246.05,241,True
+483,LawnGreen Model Home,Home & Kitchen,Garcia,180.59,491,True
+484,Tan Image Beauty,Beauty,Archer,226.06,127,True
+485,DodgerBlue Assume Toys,Toys,Harris,272.71,39,True
+486,BurlyWood Be Clothing,Clothing,Aguirre,503.03,461,True
+487,Aquamarine Determine Books,Books,Ellison-Wells,804.72,23,False
+488,DarkOrange Effect Clothing,Clothing,Christensen,877.23,443,True
+489,DarkGreen Perform Sports,Sports,Gill-Peters,328.64,283,True
+490,Brown Statement Toys,Toys,Garcia,202.26,288,True
+491,DeepSkyBlue Soon Books,Books,Sutton-Jensen,464.99,302,False
+492,CadetBlue Seven Books,Books,Green,732.99,279,True
+493,SeaGreen Term Books,Books,Murphy,152.26,477,True
+494,DarkOrchid Ball Books,Books,Mullen,542.45,325,True
+495,Ivory Green Electronics,Electronics,Martin,951.08,0,True
+496,FireBrick Open Beauty,Beauty,Lowe,849.3,372,True
+497,AliceBlue Market Books,Books,Chan,530.74,121,True
+498,Chartreuse Senior Electronics,Electronics,Mcdonald,972.6,72,True
+499,DarkMagenta Last Clothing,Clothing,Tran,45.8,118,True
+500,DarkOliveGreen Start Beauty,Beauty,Harrison,701.44,190,True
+501,Green Research Clothing,Clothing,Koch,581.6,258,True
+502,LightCoral Medical Beauty,Beauty,Hampton-Nichols,76.67,290,True
+503,SlateBlue Ground Home,Home & Kitchen,Williams,238.29,133,True
+504,DarkMagenta We Beauty,Beauty,White,701.31,376,True
+505,Aquamarine Report Grocery,Grocery,Moran,273.4,38,False
+506,SteelBlue Almost Home,Home & Kitchen,Jackson,780.37,299,True
+507,LightYellow Daughter Clothing,Clothing,Lewis,166.04,238,True
+508,GhostWhite Commercial Clothing,Clothing,Myers,536.84,493,True
+509,OliveDrab Play Grocery,Grocery,Hines,309.68,135,True
+510,LightGoldenRodYellow Information Clothing,Clothing,Kennedy,159.29,351,True
+511,MintCream Attorney Electronics,Electronics,Harvey-Wilson,216.58,438,True
+512,Moccasin Same Clothing,Clothing,Ayers,711.73,495,True
+513,Chartreuse Simply Electronics,Electronics,Roberson,677.82,133,True
+514,DarkViolet Important Home,Home & Kitchen,Smith,33.01,207,True
+515,IndianRed Decade Books,Books,Williams-Everett,96.53,52,True
+516,Turquoise Speak Home,Home & Kitchen,Orozco-Moore,123.2,31,True
+517,HotPink Scientist Books,Books,Neal,132.44,421,True
+518,DarkSlateGray Fight Clothing,Clothing,Wyatt,583.15,132,False
+519,Aqua Fish Clothing,Clothing,Rodgers,23.75,33,True
+520,Crimson Teach Grocery,Grocery,Stewart,809.67,47,False
+521,Brown Choice Toys,Toys,Richardson,124.27,482,True
+522,OldLace Maybe Home,Home & Kitchen,Diaz,924.27,221,True
+523,Orange Say Beauty,Beauty,Powell-Bauer,497.12,195,True
+524,Lavender Region Home,Home & Kitchen,Huffman,355.23,465,True
+525,DarkGoldenRod About Sports,Sports,Smith-Wilson,447.11,76,True
+526,LightSalmon Which Books,Books,Fisher-Mack,647.97,255,True
+527,DeepSkyBlue Military Grocery,Grocery,Wilkins,62.85,143,True
+528,DarkRed Front Beauty,Beauty,Wright-Rogers,201.05,452,True
+529,DarkOliveGreen Certain Books,Books,Townsend,631.48,410,True
+530,MediumPurple Surface Electronics,Electronics,Anderson,989.41,400,True
+531,Navy Southern Grocery,Grocery,Jimenez,545.42,248,True
+532,DeepSkyBlue However Toys,Toys,Williams,389.59,92,True
+533,DodgerBlue Dream Books,Books,Reyes,31.23,415,True
+534,PowderBlue Son Electronics,Electronics,Kirby,809.03,241,True
+535,SandyBrown Management Books,Books,Johnson,974.02,51,True
+536,Red Blue Books,Books,Murray,267.98,417,True
+537,SteelBlue Major Electronics,Electronics,Ward,764.51,485,True
+538,SkyBlue Night Beauty,Beauty,Goodwin,356.09,429,False
+539,IndianRed Billion Home,Home & Kitchen,Stewart-Irwin,177.74,303,True
+540,Wheat Admit Toys,Toys,Oneal,914.14,14,True
+541,Cornsilk Though Toys,Toys,Gordon-Nguyen,947.65,288,True
+542,Salmon Remain Books,Books,Reyes,837.01,414,True
+543,ForestGreen Go Grocery,Grocery,Townsend-Foster,543.03,89,True
+544,Wheat Interesting Clothing,Clothing,Barry,58.05,308,True
+545,Tomato These Grocery,Grocery,Shea-West,2.67,469,True
+546,Pink Enough Home,Home & Kitchen,Smith,342.07,90,False
+547,OldLace Result Toys,Toys,Thomas,61.43,75,True
+548,GreenYellow Yes Home,Home & Kitchen,Clark-Kelley,774.81,433,True
+549,PaleGoldenRod Maybe Toys,Toys,Holt-Howard,960.63,191,True
+550,DarkSalmon Discover Beauty,Beauty,Reynolds,586.83,172,True
+551,CadetBlue Investment Home,Home & Kitchen,Benson,975.9,374,False
+552,Turquoise Increase Grocery,Grocery,Shelton,649.87,89,True
+553,NavajoWhite Star Toys,Toys,Green,224.78,301,True
+554,Bisque Right Beauty,Beauty,Acevedo,308.2,352,True
+555,Green Participant Home,Home & Kitchen,Harmon-Krueger,729.36,485,True
+556,MediumOrchid Pick Beauty,Beauty,Patterson-Scott,851.05,394,False
+557,Aqua Former Electronics,Electronics,Maldonado,183.71,162,False
+558,MediumBlue Its Books,Books,Brown-Wells,640.36,53,False
+559,SandyBrown Money Home,Home & Kitchen,Morgan,332.5,39,True
+560,Crimson Peace Toys,Toys,Huffman,169.54,453,False
+561,LightGoldenRodYellow Choice Toys,Toys,Woods,447.73,135,True
+562,DarkSeaGreen Lose Clothing,Clothing,Clark,351.77,402,True
+563,DarkViolet Meet Electronics,Electronics,Rodriguez,50.04,224,True
+564,SandyBrown Then Home,Home & Kitchen,Curtis-Henry,884.77,252,True
+565,DarkOrchid Million Toys,Toys,Henderson,546.92,51,True
+566,LightYellow Coach Books,Books,Ware,164.32,37,True
+567,PaleGreen Part Electronics,Electronics,Hall,296.31,163,True
+568,Peru Particular Clothing,Clothing,Clark,76.04,87,True
+569,GhostWhite All Home,Home & Kitchen,Burgess,732.51,280,False
+570,Aquamarine Beyond Clothing,Clothing,Lopez-Sanders,339.26,314,True
+571,Snow Them Electronics,Electronics,Brown,432.45,334,True
+572,Bisque Trouble Beauty,Beauty,Hayes,158.78,51,True
+573,IndianRed Sure Books,Books,Ross,410.45,283,True
+574,RosyBrown Very Sports,Sports,Beasley,661.27,152,True
+575,Aqua Yeah Electronics,Electronics,Carter,394.11,281,True
+576,HoneyDew Crime Home,Home & Kitchen,Conley-White,56.39,1,True
+577,LightSeaGreen However Sports,Sports,Walker,824.24,320,True
+578,DimGray Order Books,Books,Patton-Hamilton,98.78,105,True
+579,LawnGreen Whole Sports,Sports,Smith,977.09,242,True
+580,Orchid Something Sports,Sports,Green-Moore,785.3,241,True
+581,MediumVioletRed Power Sports,Sports,Salazar,92.94,278,True
+582,Indigo Sing Toys,Toys,Walker,885.71,189,True
+583,Snow Couple Electronics,Electronics,Callahan,264.76,238,True
+584,Orange Doctor Sports,Sports,Pearson-Evans,565.11,77,True
+585,Pink Artist Clothing,Clothing,Rivas,87.53,176,True
+586,PeachPuff Local Beauty,Beauty,Brewer-Holloway,970.75,301,True
+587,SaddleBrown Travel Electronics,Electronics,Tran,841.11,419,True
+588,MintCream Describe Grocery,Grocery,Burns,573.56,120,True
+589,Navy Agency Clothing,Clothing,Sharp-Wagner,396.0,437,True
+590,YellowGreen Learn Home,Home & Kitchen,Cabrera-Barnes,122.03,387,True
+591,Snow Himself Home,Home & Kitchen,Mathis-Smith,972.21,413,True
+592,Brown Offer Electronics,Electronics,Ortega,424.52,349,True
+593,FloralWhite Physical Home,Home & Kitchen,Martin,834.43,132,True
+594,Navy Standard Clothing,Clothing,Macias-Allen,88.84,284,True
+595,BlanchedAlmond Far Toys,Toys,Daniels-Sloan,856.9,266,True
+596,Ivory Consumer Electronics,Electronics,Bailey,786.97,319,True
+597,LightBlue Design Beauty,Beauty,Smith,114.28,76,True
+598,LemonChiffon Help Clothing,Clothing,Williams,925.07,288,True
+599,MediumPurple Guy Sports,Sports,Wilson,867.73,450,True
+600,Ivory Green Beauty,Beauty,Murphy-Robbins,265.6,335,True
+601,BlanchedAlmond Draw Grocery,Grocery,Carpenter-Li,39.38,141,True
+602,LightSkyBlue Run Beauty,Beauty,Hanson,40.69,455,True
+603,GoldenRod Type Books,Books,Phillips,51.18,243,False
+604,OrangeRed Wide Toys,Toys,Vargas,22.18,418,True
+605,AntiqueWhite Task Sports,Sports,Johnson,281.78,251,True
+606,Lavender Can Clothing,Clothing,Decker,972.54,116,True
+607,LightPink Believe Grocery,Grocery,Hobbs,774.47,164,True
+608,Red State Beauty,Beauty,Potter-Long,605.76,45,True
+609,DarkSlateBlue Arrive Books,Books,Thomas,913.6,208,True
+610,PaleGoldenRod Decade Toys,Toys,Castillo,821.37,263,True
+611,Navy Fall Clothing,Clothing,Jones,312.49,259,True
+612,OliveDrab Court Electronics,Electronics,Hampton,175.38,448,True
+613,GreenYellow Week Electronics,Electronics,Peterson-Odom,250.98,233,True
+614,DarkGreen Peace Toys,Toys,White,705.21,140,True
+615,Crimson Scientist Grocery,Grocery,Garcia,506.11,325,False
+616,Lavender Seven Electronics,Electronics,Anderson-Henderson,243.44,250,True
+617,LightSalmon Material Home,Home & Kitchen,Hernandez-Farrell,960.59,242,True
+618,PaleGoldenRod Enter Toys,Toys,Garcia-Bullock,345.55,428,True
+619,Bisque Voice Clothing,Clothing,Simmons,286.49,197,True
+620,Bisque Above Books,Books,Watkins,857.39,331,True
+621,LightGreen Forward Books,Books,Nelson,270.54,209,True
+622,FireBrick Season Electronics,Electronics,Brown,475.14,67,True
+623,Khaki Trade Electronics,Electronics,Gomez-Stewart,225.31,311,True
+624,LightPink Determine Sports,Sports,Ingram,713.31,363,True
+625,Lime Economy Beauty,Beauty,Skinner,895.68,436,True
+626,SandyBrown Pull Sports,Sports,Green,219.76,154,True
+627,DarkSalmon House Beauty,Beauty,Figueroa,585.31,3,True
+628,DarkGoldenRod More Toys,Toys,Young,562.32,304,True
+629,MediumBlue School Sports,Sports,Moody,685.03,246,True
+630,AntiqueWhite Five Sports,Sports,Webb,641.3,441,True
+631,Olive Themselves Sports,Sports,Gonzalez,189.97,264,True
+632,FloralWhite Perform Electronics,Electronics,Andersen,805.81,410,True
+633,Chartreuse Company Beauty,Beauty,Mcdonald-Daniels,661.2,348,True
+634,LightSteelBlue Lead Electronics,Electronics,Brown-Meyer,656.08,151,True
+635,SteelBlue Stock Beauty,Beauty,Moss-Moreno,405.78,377,True
+636,Yellow Congress Books,Books,Lyons-Page,344.47,365,True
+637,Silver Central Grocery,Grocery,Kramer-Smith,906.7,343,True
+638,Teal Exactly Sports,Sports,Olson-Barrett,845.72,430,True
+639,FloralWhite Him Home,Home & Kitchen,Bradshaw-Atkins,295.19,241,True
+640,MediumAquaMarine Since Sports,Sports,Miller-Richards,725.73,286,True
+641,FloralWhite One Home,Home & Kitchen,Thompson,947.02,460,True
+642,Aqua Someone Clothing,Clothing,Ferguson,223.8,114,True
+643,PaleGreen Concern Sports,Sports,West-Tran,421.62,454,True
+644,Gold Perform Sports,Sports,Gilmore-Lucas,586.39,237,True
+645,DarkGoldenRod Today Grocery,Grocery,Mcguire,55.56,324,True
+646,LightSalmon Begin Clothing,Clothing,Hudson-Thompson,473.27,99,True
+647,Aqua Store Beauty,Beauty,Jacobs,530.77,211,True
+648,PapayaWhip Indeed Home,Home & Kitchen,Decker,139.08,102,True
+649,BlueViolet Center Grocery,Grocery,Ross-Baker,144.93,441,True
+650,MediumSpringGreen Their Clothing,Clothing,Mccarty,488.6,323,False
+651,Plum Daughter Toys,Toys,Jones,635.22,2,True
+652,BlueViolet After Books,Books,Hall,761.66,86,True
+653,DarkBlue Paper Home,Home & Kitchen,Sanchez,490.59,390,True
+654,WhiteSmoke President Home,Home & Kitchen,Taylor,615.24,324,True
+655,SandyBrown Better Beauty,Beauty,Herring,965.39,196,True
+656,Olive Together Books,Books,Neal,731.19,486,True
+657,Beige Work Toys,Toys,Thomas,757.32,271,True
+658,PaleGoldenRod Fast Electronics,Electronics,Rodriguez-Cohen,627.42,127,True
+659,PeachPuff Then Toys,Toys,Wells,313.46,52,True
+660,DarkSeaGreen Include Sports,Sports,Robinson-Fox,168.68,421,True
+661,MidnightBlue Action Sports,Sports,Armstrong,457.0,266,True
+662,SandyBrown Consumer Toys,Toys,Nelson,434.79,351,False
+663,Red That Toys,Toys,Hopkins-Mathews,996.14,250,True
+664,DarkOliveGreen Describe Books,Books,Buchanan,166.54,464,False
+665,Aquamarine Question Beauty,Beauty,Green,21.08,114,True
+666,Lime Certain Home,Home & Kitchen,Baldwin,212.76,11,True
+667,MediumVioletRed Fact Home,Home & Kitchen,Wilson-Curry,124.91,364,True
+668,Salmon Could Electronics,Electronics,Harrison-Jacobson,376.43,327,True
+669,Turquoise High Electronics,Electronics,Tapia-Shannon,594.73,24,True
+670,BlanchedAlmond Knowledge Electronics,Electronics,Clark,50.13,59,True
+671,Brown Tell Beauty,Beauty,Beard-Lamb,125.34,129,True
+672,Sienna Generation Home,Home & Kitchen,Garcia-Pierce,207.07,351,True
+673,Beige Before Sports,Sports,Harvey-Cunningham,422.02,51,True
+674,ForestGreen Firm Sports,Sports,White,623.54,358,True
+675,Indigo Light Clothing,Clothing,Adams-Adams,512.55,316,True
+676,SpringGreen Concern Clothing,Clothing,Adams,785.18,254,True
+677,MediumSeaGreen Style Books,Books,Mason,778.39,425,True
+678,LightCyan List Books,Books,Hodges,359.2,209,True
+679,LightYellow Spring Electronics,Electronics,Wood,549.03,466,True
+680,DarkSlateGray Kid Grocery,Grocery,Bradley,331.93,1,True
+681,Gray Name Clothing,Clothing,Gross-Adams,907.06,427,True
+682,Aquamarine About Grocery,Grocery,Morgan,150.84,46,True
+683,Maroon Meet Clothing,Clothing,Acevedo,724.11,51,False
+684,LightSeaGreen Easy Books,Books,Deleon-Morrison,457.83,500,True
+685,BlanchedAlmond Party Grocery,Grocery,Woods,51.97,416,True
+686,LightGray Remember Electronics,Electronics,Williams-Burns,852.53,184,True
+687,PaleVioletRed Since Toys,Toys,Carter,427.13,59,True
+688,Tan What Electronics,Electronics,Green,11.64,70,True
+689,OldLace Beautiful Home,Home & Kitchen,Goodwin,329.99,457,True
+690,MediumVioletRed Unit Sports,Sports,Scott-Gutierrez,878.71,47,True
+691,SeaGreen Catch Toys,Toys,Mcdowell,184.49,205,True
+692,CornflowerBlue Hold Grocery,Grocery,Phillips,273.28,197,True
+693,Tomato Skin Grocery,Grocery,Duncan,800.29,332,True
+694,Sienna Window Home,Home & Kitchen,Jackson,114.82,356,True
+695,Tomato Foot Home,Home & Kitchen,Williams-Gibson,105.5,466,True
+696,OliveDrab Again Grocery,Grocery,Cherry-Cox,182.89,194,True
+697,Pink Along Electronics,Electronics,Lam-Perez,862.84,450,True
+698,LightBlue Life Home,Home & Kitchen,Melendez-Vargas,484.1,249,True
+699,LemonChiffon Development Beauty,Beauty,Sanders,441.8,32,True
+700,Purple Reduce Toys,Toys,Johnson,14.33,444,True
+701,SeaShell School Books,Books,Kelley,977.93,342,True
+702,Gainsboro Simple Clothing,Clothing,Fisher,433.97,372,True
+703,LightSeaGreen Stand Toys,Toys,Mendez,664.37,328,True
+704,RoyalBlue Movie Electronics,Electronics,Hunter,13.61,478,True
+705,MediumPurple Require Grocery,Grocery,Stokes,852.16,445,True
+706,GreenYellow Page Grocery,Grocery,Harris-Frazier,321.98,169,False
+707,FloralWhite Same Electronics,Electronics,Steele,507.91,281,True
+708,SkyBlue Instead Beauty,Beauty,Harmon,817.46,40,True
+709,MediumBlue Thus Grocery,Grocery,Anthony,89.83,255,True
+710,LimeGreen Own Clothing,Clothing,Taylor,980.7,381,True
+711,SaddleBrown Artist Clothing,Clothing,Wong-Hoffman,404.62,18,True
+712,Crimson Offer Electronics,Electronics,Vega-Ramos,826.25,405,True
+713,PaleTurquoise Include Sports,Sports,Lopez,890.32,287,True
+714,CornflowerBlue Interest Grocery,Grocery,Lane,950.44,186,True
+715,Aquamarine Matter Books,Books,Harding,844.62,169,True
+716,Fuchsia Speak Grocery,Grocery,Combs,717.21,186,True
+717,WhiteSmoke Wonder Clothing,Clothing,Henry,99.23,337,True
+718,DeepSkyBlue Kid Toys,Toys,Morris,356.42,324,False
+719,Lavender Major Sports,Sports,Ellis,548.59,191,True
+720,White Land Electronics,Electronics,Bishop-Jackson,897.07,252,True
+721,LightSteelBlue Coach Beauty,Beauty,Clark,108.74,312,True
+722,WhiteSmoke Right Clothing,Clothing,Young,930.35,201,True
+723,LavenderBlush General Books,Books,Mcdaniel-Bowman,717.34,55,True
+724,Azure Budget Electronics,Electronics,Howard-Cunningham,926.76,428,True
+725,PeachPuff Listen Clothing,Clothing,Mcknight,772.59,230,True
+726,Fuchsia Attack Home,Home & Kitchen,Morgan,963.92,2,True
+727,NavajoWhite Evening Electronics,Electronics,Moreno,554.11,221,True
+728,Thistle Situation Grocery,Grocery,Hopkins-Sanchez,924.51,399,False
+729,CadetBlue Save Home,Home & Kitchen,Patton,692.42,88,True
+730,Crimson Man Home,Home & Kitchen,Ryan,105.34,336,True
+731,AntiqueWhite Imagine Toys,Toys,Bennett,505.09,196,True
+732,DarkOrange Gun Books,Books,Rose,275.04,493,True
+733,CadetBlue Board Sports,Sports,Santos-King,453.93,68,True
+734,DarkTurquoise Wear Sports,Sports,Dixon,843.38,280,True
+735,RosyBrown Stage Books,Books,Wilson,202.48,319,True
+736,DeepSkyBlue Itself Toys,Toys,Evans,921.34,67,False
+737,Black Must Home,Home & Kitchen,Ryan,504.88,355,True
+738,Coral Look Clothing,Clothing,Morales,761.24,287,True
+739,FireBrick Plant Beauty,Beauty,Pierce-Curtis,674.88,457,True
+740,LightYellow There Sports,Sports,Kirby-Nguyen,877.71,216,True
+741,Black Recent Clothing,Clothing,Ellis,27.21,74,True
+742,Tan Receive Electronics,Electronics,Church,201.49,384,True
+743,SeaGreen Program Sports,Sports,Davis-Barnes,684.01,74,True
+744,AliceBlue Land Sports,Sports,Jennings,205.58,277,True
+745,OliveDrab Town Grocery,Grocery,Jackson,104.27,444,True
+746,PaleGreen Including Books,Books,Smith,742.92,287,True
+747,Wheat Cell Sports,Sports,Allen,693.54,24,False
+748,SaddleBrown Art Beauty,Beauty,Todd,417.72,403,False
+749,GoldenRod Remember Toys,Toys,Ramirez-Robinson,965.89,27,True
+750,Olive Professor Sports,Sports,White,204.67,444,True
+751,SlateBlue We Grocery,Grocery,Miller,830.31,466,True
+752,LightYellow Take Toys,Toys,Arias,755.59,279,True
+753,Navy Dinner Books,Books,Carlson-Richards,776.58,493,True
+754,DeepSkyBlue Dog Grocery,Grocery,Diaz-Smith,179.06,349,True
+755,LightGreen Over Home,Home & Kitchen,Sullivan-Velasquez,735.6,61,True
+756,Chocolate Enjoy Beauty,Beauty,Bennett,280.54,135,True
+757,LightYellow Eight Sports,Sports,Flores-Richard,7.62,238,True
+758,Linen And Home,Home & Kitchen,Kelly-Hale,41.85,475,True
+759,Peru Especially Electronics,Electronics,Molina,774.1,320,True
+760,NavajoWhite Start Sports,Sports,Frazier-Arellano,491.56,293,True
+761,PaleGoldenRod The Clothing,Clothing,Nelson,784.45,162,True
+762,DarkViolet By Home,Home & Kitchen,Sawyer-Hudson,521.56,402,True
+763,SpringGreen Energy Beauty,Beauty,Wood,543.98,206,True
+764,DeepPink Decade Books,Books,Hall,883.62,339,True
+765,Olive Interesting Toys,Toys,Munoz-Weber,294.98,486,True
+766,Wheat Involve Grocery,Grocery,Richards-Anderson,996.63,421,True
+767,Magenta Our Electronics,Electronics,Faulkner-Wyatt,116.48,177,True
+768,ForestGreen Central Books,Books,Williams,958.97,349,True
+769,Orange Create Beauty,Beauty,Ali,916.09,483,True
+770,DarkSalmon Activity Sports,Sports,Butler-Jones,541.15,144,True
+771,SaddleBrown Word Toys,Toys,Silva,515.27,260,True
+772,OldLace Poor Electronics,Electronics,Kerr,297.83,333,True
+773,DeepSkyBlue Per Clothing,Clothing,Morrison,948.31,85,False
+774,IndianRed Full Electronics,Electronics,Navarro,627.67,107,True
+775,Thistle Majority Books,Books,Simpson,865.21,217,True
+776,PowderBlue Actually Books,Books,Martinez-Scott,538.67,359,True
+777,ForestGreen Appear Beauty,Beauty,Meza,647.26,481,True
+778,LightBlue Beyond Home,Home & Kitchen,Gonzalez-Rice,25.7,367,True
+779,Gold South Clothing,Clothing,Miller,75.09,91,True
+780,Black Above Clothing,Clothing,Roberts,575.8,116,False
+781,SeaGreen Wonder Beauty,Beauty,Thomas-Jensen,389.25,322,True
+782,CornflowerBlue Structure Toys,Toys,Figueroa-Stanley,18.85,344,True
+783,BlanchedAlmond Truth Electronics,Electronics,Simon-Elliott,642.13,316,True
+784,IndianRed First Electronics,Electronics,Smith,701.47,37,True
+785,Snow Fund Clothing,Clothing,Santana,291.25,351,True
+786,SeaShell Cause Clothing,Clothing,Vargas,282.94,474,True
+787,PowderBlue Quickly Beauty,Beauty,Wall-Reyes,822.47,15,True
+788,DimGray Situation Books,Books,Case,138.1,200,True
+789,MediumPurple Pressure Sports,Sports,Banks,960.2,73,True
+790,MediumSlateBlue Theory Toys,Toys,Johnson,957.47,5,True
+791,Pink Later Home,Home & Kitchen,Dunlap,124.98,2,True
+792,PaleGoldenRod Car Beauty,Beauty,Bentley,538.07,484,True
+793,BlanchedAlmond Range Books,Books,Morales-Anderson,748.79,462,True
+794,AntiqueWhite Bed Books,Books,Hopkins-Sanchez,413.82,330,True
+795,AliceBlue List Home,Home & Kitchen,Ortiz,162.62,113,True
+796,MediumSeaGreen Media Sports,Sports,Todd,195.93,92,True
+797,LightSteelBlue Time Electronics,Electronics,Collins,851.67,477,False
+798,SlateGray Even Grocery,Grocery,Page,645.38,37,True
+799,Ivory Baby Clothing,Clothing,Lee,252.18,101,True
+800,PaleGreen Bill Grocery,Grocery,Williams,951.63,182,True
+801,Snow Debate Books,Books,Jackson,101.83,317,True
+802,Chocolate Draw Books,Books,Miller-Johnston,319.14,230,True
+803,Fuchsia Answer Sports,Sports,Neal,694.06,78,True
+804,Cornsilk Performance Toys,Toys,Black,808.07,490,True
+805,HoneyDew Machine Electronics,Electronics,Lee,314.58,402,True
+806,GhostWhite Take Beauty,Beauty,Christian-Collins,278.12,184,True
+807,RosyBrown Few Toys,Toys,Lynch,878.12,236,True
+808,Bisque Life Sports,Sports,Benjamin,487.99,55,True
+809,Ivory Forward Clothing,Clothing,Leblanc,842.1,439,True
+810,SeaShell Job Books,Books,Jones-Sherman,264.7,453,True
+811,Cornsilk Stop Clothing,Clothing,Soto-Madden,892.31,434,True
+812,MintCream Behind Electronics,Electronics,Neal-Woodward,813.01,296,True
+813,FireBrick Treat Books,Books,Watkins,906.48,282,True
+814,GoldenRod Especially Grocery,Grocery,Jacobs,654.59,76,True
+815,MidnightBlue Mr Books,Books,Cooper,891.64,301,True
+816,Cyan Shoulder Sports,Sports,Morton,135.6,256,True
+817,LightGoldenRodYellow Experience Beauty,Beauty,Owen,365.13,5,True
+818,DarkOrange Will Home,Home & Kitchen,Williams-Vasquez,757.68,71,True
+819,Sienna Able Home,Home & Kitchen,Mitchell,567.21,289,True
+820,LemonChiffon Wait Home,Home & Kitchen,Love,736.44,247,False
+821,Magenta Buy Electronics,Electronics,Hill,220.37,249,True
+822,YellowGreen Citizen Sports,Sports,Miller,370.69,21,True
+823,Bisque Responsibility Toys,Toys,Chapman,389.31,469,True
+824,DodgerBlue Speak Electronics,Electronics,Simon,41.81,332,True
+825,YellowGreen Once Sports,Sports,Cohen-Ramirez,835.19,134,True
+826,Beige Receive Home,Home & Kitchen,Ferguson-Smith,377.9,193,True
+827,OrangeRed Fund Clothing,Clothing,Franklin,517.62,192,False
+828,DarkGoldenRod Wear Books,Books,Campbell-Kim,517.33,180,True
+829,GreenYellow Trial Toys,Toys,Bowen,487.88,246,True
+830,PapayaWhip Cause Electronics,Electronics,Brown,502.82,71,True
+831,SeaGreen First Books,Books,Horn-Gordon,78.92,329,True
+832,Tan We Home,Home & Kitchen,Gill,188.52,185,True
+833,SlateBlue And Clothing,Clothing,Cortez,661.78,212,True
+834,BlueViolet Pick Clothing,Clothing,Williams,482.54,245,True
+835,DarkOrchid Place Home,Home & Kitchen,Gilbert,647.95,210,True
+836,LightSkyBlue Tree Electronics,Electronics,Miller,129.62,303,True
+837,DarkViolet Talk Electronics,Electronics,Gray-Davis,891.01,75,True
+838,WhiteSmoke Fact Sports,Sports,Morgan,922.59,264,False
+839,PaleGoldenRod Effect Electronics,Electronics,Barrett,878.74,372,True
+840,PaleGreen Alone Sports,Sports,Gamble-Lindsey,947.35,110,True
+841,DimGray Choice Grocery,Grocery,Edwards,867.56,87,True
+842,SeaShell Resource Beauty,Beauty,Alvarez,601.63,406,True
+843,Moccasin Seek Home,Home & Kitchen,Phillips-Barber,623.96,261,True
+844,Chartreuse Treat Toys,Toys,Shelton,922.5,305,True
+845,Gray Base Books,Books,Christensen-Roberts,379.44,67,True
+846,Cornsilk Test Books,Books,Armstrong,523.66,465,True
+847,PeachPuff Under Beauty,Beauty,Lara-Cuevas,826.85,310,True
+848,DarkSeaGreen Turn Grocery,Grocery,White-Murphy,901.8,307,True
+849,OldLace Win Clothing,Clothing,Cox,94.99,337,True
+850,DarkSlateGray So Electronics,Electronics,Jones-Nichols,897.17,396,True
+851,Azure Carry Beauty,Beauty,Tucker-Peters,522.99,189,True
+852,RosyBrown According Beauty,Beauty,Meadows,231.02,410,True
+853,PaleGoldenRod Anything Beauty,Beauty,Reilly-Williams,351.81,411,True
+854,LavenderBlush Analysis Clothing,Clothing,Foster-Hamilton,426.63,130,True
+855,Aqua Hospital Books,Books,Anderson,910.26,42,True
+856,DarkCyan Radio Beauty,Beauty,Patterson,259.28,2,True
+857,DarkOrchid Activity Electronics,Electronics,Willis,578.82,60,True
+858,DarkOrchid Community Beauty,Beauty,Trujillo,655.23,352,True
+859,Black Character Beauty,Beauty,Taylor-Franklin,363.54,79,True
+860,MediumSlateBlue Coach Sports,Sports,Gonzalez,262.77,274,True
+861,SeaGreen Safe Toys,Toys,Richardson,612.65,348,True
+862,GhostWhite Including Books,Books,Williams,414.39,401,True
+863,White Law Home,Home & Kitchen,Anderson,371.46,284,True
+864,MediumVioletRed Whose Sports,Sports,Michael-Stanley,578.49,396,True
+865,LightCyan Talk Home,Home & Kitchen,Jarvis-Garza,855.28,337,True
+866,DarkSlateGray Animal Books,Books,Mitchell-Hawkins,447.69,358,False
+867,LightSkyBlue Rule Clothing,Clothing,Frost-Perez,216.02,205,True
+868,DarkGoldenRod Capital Electronics,Electronics,Smith,162.41,493,True
+869,Orange Happen Clothing,Clothing,Bell,823.6,241,False
+870,LightSkyBlue Sound Beauty,Beauty,Sanders-Sullivan,89.95,134,True
+871,FireBrick Picture Clothing,Clothing,Watson,609.8,370,True
+872,CadetBlue Forward Beauty,Beauty,Russell,614.73,266,True
+873,PaleTurquoise Board Electronics,Electronics,Pittman-Collins,945.81,419,True
+874,Peru Allow Grocery,Grocery,Smith-Cole,440.08,103,True
+875,DeepSkyBlue Sometimes Sports,Sports,Winters-Sullivan,196.35,401,True
+876,DarkSeaGreen Debate Books,Books,Marsh-Brown,615.95,345,True
+877,Tan His Books,Books,Jones,655.7,499,True
+878,AntiqueWhite Author Sports,Sports,Hall-Swanson,780.1,180,True
+879,DarkGoldenRod Land Beauty,Beauty,Lamb-Stewart,586.9,265,True
+880,CadetBlue Hand Clothing,Clothing,Alexander,919.33,281,True
+881,LightCyan Five Toys,Toys,Clark,348.77,417,True
+882,MediumOrchid Food Books,Books,Bradley-Brown,455.84,206,True
+883,OldLace Everything Sports,Sports,Mcgee,176.67,259,True
+884,MediumAquaMarine Run Clothing,Clothing,Silva-Flores,504.15,174,False
+885,Salmon Candidate Sports,Sports,Mahoney,876.35,416,True
+886,Violet Public Sports,Sports,Schmidt,694.79,494,True
+887,Lime Throw Grocery,Grocery,Sullivan,770.42,387,True
+888,DarkRed Once Grocery,Grocery,Lee,682.22,459,True
+889,Snow Everything Electronics,Electronics,Lambert,483.0,132,True
+890,AntiqueWhite House Books,Books,Harrison,677.55,117,True
+891,Silver Throw Beauty,Beauty,Solis-Davis,955.52,264,True
+892,LightGray Election Sports,Sports,Shaffer,249.75,47,True
+893,GhostWhite Common Toys,Toys,Morrison,77.87,476,True
+894,SlateGray Effort Toys,Toys,Lopez,354.82,457,True
+895,Silver Difference Home,Home & Kitchen,Anderson,947.21,349,False
+896,LightSteelBlue Event Books,Books,Lopez,499.99,102,True
+897,DarkSlateBlue Fund Books,Books,Hines,872.99,105,True
+898,Salmon However Books,Books,Villarreal,836.65,182,True
+899,Purple Material Clothing,Clothing,Howell,121.63,40,True
+900,DimGray Door Grocery,Grocery,Nichols,614.59,391,True
+901,DarkSlateBlue Edge Electronics,Electronics,White,848.3,190,True
+902,AliceBlue Attention Grocery,Grocery,Jensen-Perez,898.31,451,True
+903,ForestGreen Name Sports,Sports,Carter-Lewis,491.81,391,False
+904,Lime Miss Sports,Sports,Jones,399.07,384,True
+905,Aqua Successful Electronics,Electronics,Webb,526.67,216,True
+906,MediumPurple Thousand Electronics,Electronics,Vaughn-Martinez,503.46,201,True
+907,Orange Art Home,Home & Kitchen,Morris-Carroll,458.27,61,True
+908,CornflowerBlue Defense Grocery,Grocery,Chung,317.01,4,True
+909,OrangeRed Story Books,Books,Rollins-Lewis,380.66,51,True
+910,DeepSkyBlue Create Sports,Sports,Haney-Hardy,188.77,134,True
+911,DeepPink White Grocery,Grocery,Vasquez,958.6,175,True
+912,SeaGreen Discover Grocery,Grocery,Crosby,425.08,214,True
+913,Tan Scene Toys,Toys,Friedman,366.34,205,True
+914,Lime Show Home,Home & Kitchen,Johnson-Lang,572.26,294,True
+915,AliceBlue Despite Clothing,Clothing,Ward,721.36,411,True
+916,MediumSeaGreen Possible Beauty,Beauty,Jackson-Gordon,856.59,100,True
+917,LimeGreen Central Home,Home & Kitchen,Roberts,474.03,4,True
+918,Sienna Strong Grocery,Grocery,Evans,136.19,457,True
+919,LightPink Affect Toys,Toys,Wong,785.75,153,True
+920,Moccasin Move Electronics,Electronics,Patterson,399.6,353,True
+921,DarkSlateGray Hot Books,Books,Howe,814.18,243,True
+922,DimGray Address Clothing,Clothing,Sanchez,450.95,171,True
+923,Gold Support Toys,Toys,Bates,561.22,477,True
+924,PaleGreen Use Toys,Toys,Bautista-Daniel,21.79,62,True
+925,LightSkyBlue Painting Books,Books,Adams-Larson,577.69,332,True
+926,HoneyDew Body Home,Home & Kitchen,Schaefer,979.4,145,True
+927,SlateBlue Smile Grocery,Grocery,Roberson,775.18,228,True
+928,Crimson Even Beauty,Beauty,Sloan,614.43,237,True
+929,Maroon Teach Home,Home & Kitchen,Smith-Campbell,868.51,327,True
+930,HoneyDew Character Toys,Toys,Hampton-Kim,422.96,313,True
+931,IndianRed Care Clothing,Clothing,Mcgee,80.94,175,True
+932,LightCyan Walk Toys,Toys,Garcia-Garcia,653.7,363,True
+933,White Support Beauty,Beauty,Jones,272.7,227,True
+934,LightSlateGray Or Toys,Toys,Perez-Smith,748.39,266,False
+935,Cornsilk Court Beauty,Beauty,Cole,168.97,437,True
+936,DodgerBlue Certain Books,Books,Velasquez,662.69,481,True
+937,LimeGreen Wrong Clothing,Clothing,Evans-Serrano,212.14,203,True
+938,DodgerBlue Growth Clothing,Clothing,Espinoza-Francis,936.91,242,True
+939,SlateGray Attack Electronics,Electronics,Schroeder,771.38,268,True
+940,DarkSalmon Democratic Clothing,Clothing,Fox-Payne,105.71,316,True
+941,SkyBlue Article Beauty,Beauty,Sandoval-Kaufman,310.74,126,True
+942,LightSteelBlue Author Grocery,Grocery,Boyd-Cruz,627.22,67,True
+943,Crimson Side Home,Home & Kitchen,Wolfe,30.5,339,True
+944,NavajoWhite Institution Toys,Toys,Mcdonald-Petty,864.5,239,False
+945,WhiteSmoke True Sports,Sports,Myers-Mullins,549.44,69,False
+946,MediumOrchid Myself Home,Home & Kitchen,Parks-Hanson,591.64,233,True
+947,Orange Data Beauty,Beauty,Weaver,524.4,327,True
+948,Red Class Toys,Toys,Foster,482.68,116,True
+949,BurlyWood Those Grocery,Grocery,Brown,309.24,211,True
+950,OliveDrab Institution Sports,Sports,Smith,12.52,267,True
+951,MediumBlue Heart Home,Home & Kitchen,Oconnor-Cohen,345.19,240,True
+952,PaleTurquoise Fall Grocery,Grocery,Porter-Mcintosh,947.05,244,True
+953,PaleGoldenRod Future Beauty,Beauty,Walton-Howard,798.36,305,True
+954,Snow He Electronics,Electronics,Esparza,549.11,96,True
+955,LightCyan Many Beauty,Beauty,Hill-Smith,395.95,83,True
+956,OliveDrab Need Beauty,Beauty,Morgan-Buchanan,828.76,112,True
+957,PapayaWhip System Beauty,Beauty,Foley,626.06,264,True
+958,Cornsilk Join Sports,Sports,Gomez-Nguyen,286.1,380,True
+959,DeepSkyBlue Continue Sports,Sports,Hensley-Green,414.07,436,True
+960,Thistle Per Home,Home & Kitchen,Kennedy,291.01,326,True
+961,Green Defense Grocery,Grocery,Russell,273.58,318,True
+962,Thistle Stand Toys,Toys,Copeland,21.35,25,False
+963,BlueViolet Show Electronics,Electronics,Chavez,187.56,52,True
+964,PaleTurquoise Daughter Home,Home & Kitchen,Macias,715.76,372,True
+965,LightGreen Class Clothing,Clothing,Hunt,152.37,252,True
+966,Chocolate Consumer Beauty,Beauty,Salinas,312.94,409,True
+967,BurlyWood Now Toys,Toys,Fitzgerald,464.75,405,True
+968,LightSeaGreen Skin Clothing,Clothing,Lewis,843.85,487,True
+969,Aquamarine Past Sports,Sports,Little-Colon,776.09,36,True
+970,Sienna Pick Home,Home & Kitchen,Parrish-Calhoun,193.8,430,True
+971,SlateBlue Central Beauty,Beauty,Rogers-Hernandez,828.59,62,False
+972,LightGreen Break Books,Books,Cox,386.02,499,True
+973,LightPink New Electronics,Electronics,Evans,200.77,376,True
+974,SandyBrown Democratic Books,Books,Molina-Gray,473.87,348,False
+975,SlateGray Firm Toys,Toys,Beltran,160.28,372,True
+976,Ivory Page Clothing,Clothing,Rhodes-Beasley,254.8,326,True
+977,Brown Challenge Toys,Toys,Haas,887.73,442,True
+978,LightCoral Expect Clothing,Clothing,Curtis,237.48,222,True
+979,Lavender Believe Home,Home & Kitchen,Pruitt-Burke,794.79,299,True
+980,DarkSlateGray Go Books,Books,Ramirez,10.9,21,True
+981,Gold Three Grocery,Grocery,Hernandez-Perez,689.02,79,True
+982,Purple Red Clothing,Clothing,Ruiz-Patel,250.21,255,True
+983,Salmon Him Toys,Toys,Diaz,930.98,388,True
+984,CornflowerBlue Must Electronics,Electronics,Rojas-Holder,356.8,78,True
+985,Turquoise Set Clothing,Clothing,Harris,127.57,119,True
+986,Turquoise Somebody Toys,Toys,Anderson,805.9,224,True
+987,Turquoise Tv Electronics,Electronics,Horton-Shaffer,689.86,183,True
+988,LightSalmon Born Sports,Sports,Fisher,898.86,248,True
+989,FloralWhite Vote Sports,Sports,Johnson-Day,543.64,250,True
+990,OldLace Sense Home,Home & Kitchen,Sherman,544.52,165,True
+991,SkyBlue Final Sports,Sports,Clark,867.92,306,False
+992,AliceBlue If Home,Home & Kitchen,White-Garza,70.73,79,True
+993,DarkCyan Hot Sports,Sports,Holden,542.51,232,True
+994,DarkGoldenRod Management Beauty,Beauty,Mason,734.18,452,True
+995,Olive Than Toys,Toys,Underwood-Hart,776.45,122,True
+996,PapayaWhip Prevent Clothing,Clothing,Wheeler,658.96,275,True
+997,DeepSkyBlue Eat Books,Books,Stevens,525.01,254,True
+998,Indigo Ready Home,Home & Kitchen,Wilson-Weber,613.8,165,True
+999,Bisque Civil Toys,Toys,Perez,112.23,267,True
+1000,Chartreuse Also Electronics,Electronics,Hess,835.51,66,True
