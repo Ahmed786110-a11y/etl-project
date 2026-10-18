@@ -26,7 +26,7 @@ docker run hello-world
 
 The last command should print **"Hello from Docker!"**
 
-### 1.2 Get the project
+### Get the project
 
 ```
 cd Documents
@@ -35,7 +35,7 @@ cd etl-project
 code .
 ```
 
-### 1.3 Create your settings file
+### Create your settings file
 
 The pipeline reads passwords from a file named `.env`, which is never uploaded to GitHub. Create it from the template:
 
@@ -68,7 +68,7 @@ If you don't have Python, you can leave `FERNET_KEY=` blank for a local demo. Ai
 
 ## Part 2: Running the Pipeline
 
-### 2.1 Generate the data
+### Generate the data
 
 This creates the 9 data files in `data/`. It runs inside a temporary Docker container, so you don't need Python installed.
 
@@ -85,7 +85,7 @@ The first run takes 1–3 minutes to download what it needs. Expected output:
 Done: 9 files created
 ```
 
-### 2.2 Set up Airflow (first time only)
+### Set up Airflow (first time only)
 
 ```
 docker compose up airflow-init
@@ -97,7 +97,7 @@ The first time, this downloads several GB of images (5–20 minutes). It's finis
 airflow-init-1 exited with code 0
 ```
 
-### 2.3 Start all services
+### Start all services
 
 ```
 docker compose up -d
@@ -111,12 +111,12 @@ docker compose ps
 
 Every Airflow service should show **`Up (healthy)`**, and `etl-postgres` should show **`Up`**.
 
-### 2.4 Open Airflow
+### Open Airflow
 
 1. Go to **http://localhost:8080**
 2. Log in with username **`airflow`** and password **`airflow`**
 
-### 2.5 Run the pipeline
+### Run the pipeline
 
 1. Find **`etl_pipeline`** in the DAG list. It can take up to a minute to appear after startup.
 2. Click the **toggle** to turn it on. Once it's on, it also runs automatically every day at 06:00 UTC.
@@ -131,7 +131,7 @@ Every Airflow service should show **`Up (healthy)`**, and `etl-postgres` should 
 | Yellow / orange | Retrying, or waiting on a failed task |
 | Red | Failed (see Part 3) |
 
-### 2.6 Check the results
+### Check the results
 
 Run these in the VS Code terminal.
 
@@ -154,7 +154,7 @@ If the output ends with **`(END)`**, press **`q`** to return to the prompt.
 
 You can also connect a database tool such as DBeaver or pgAdmin to **localhost : 5433**, using the user, password, and database name from `.env`.
 
-### 2.7 Stop and restart
+### Stop and restart
 
 | Action | Command |
 |---|---|
