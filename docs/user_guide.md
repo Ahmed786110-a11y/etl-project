@@ -7,7 +7,6 @@ Commands are shown for **Windows PowerShell**. On Mac or Linux they are the same
 
 
 ## Part 1: Installation
-
 ### Install the required software
 
 | Software | Where to get it | Notes |
